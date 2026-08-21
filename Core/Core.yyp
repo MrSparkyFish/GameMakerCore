@@ -63,7 +63,6 @@
   },
   "name":"Core",
   "resources":[
-    {"id":{"name":"Version","path":"notes/Version/Version.yy",},},
     {"id":{"name":"oAsyncTest","path":"objects/oAsyncTest/oAsyncTest.yy",},},
     {"id":{"name":"oGameSystem","path":"objects/oGameSystem/oGameSystem.yy",},},
     {"id":{"name":"oTestRunner","path":"objects/oTestRunner/oTestRunner.yy",},},
