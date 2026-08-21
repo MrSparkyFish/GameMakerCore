@@ -98,6 +98,7 @@
     {"id":{"name":"ExceptionAPI","path":"scripts/ExceptionAPI/ExceptionAPI.yy",},},
     {"id":{"name":"FactTest","path":"scripts/FactTest/FactTest.yy",},},
     {"id":{"name":"Float","path":"scripts/Float/Float.yy",},},
+    {"id":{"name":"GameMakerCore","path":"scripts/GameMakerCore/GameMakerCore.yy",},},
     {"id":{"name":"GenericConstants","path":"scripts/GenericConstants/GenericConstants.yy",},},
     {"id":{"name":"IAction","path":"scripts/IAction/IAction.yy",},},
     {"id":{"name":"IBool","path":"scripts/IBool/IBool.yy",},},

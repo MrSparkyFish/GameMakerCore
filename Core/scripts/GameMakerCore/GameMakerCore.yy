@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GameMakerCore",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GameMakerCore",
+  "parent":{
+    "name":"Core",
+    "path":"folders/Core.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
