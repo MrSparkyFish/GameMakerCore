@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Assert",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Assert",
+  "parent":{
+    "name":"Classes",
+    "path":"folders/Core/xUnit/Assert/Classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

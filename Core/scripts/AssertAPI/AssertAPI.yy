@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"AssertAPI",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"AssertAPI",
+  "parent":{
+    "name":"Assert",
+    "path":"folders/Core/xUnit/Assert.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

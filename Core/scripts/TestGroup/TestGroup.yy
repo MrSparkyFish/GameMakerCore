@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TestGroup",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TestGroup",
+  "parent":{
+    "name":"Classes",
+    "path":"folders/Core/xUnit/Test/Classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"LingearAlgebraConstants",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"LingearAlgebraConstants",
+  "parent":{
+    "name":"LinearAlgebra",
+    "path":"folders/Core/Math/LinearAlgebra.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

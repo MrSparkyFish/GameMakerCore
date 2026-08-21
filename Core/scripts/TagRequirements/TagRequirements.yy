@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TagRequirements",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TagRequirements",
+  "parent":{
+    "name":"Classes",
+    "path":"folders/Core/Tags/Classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

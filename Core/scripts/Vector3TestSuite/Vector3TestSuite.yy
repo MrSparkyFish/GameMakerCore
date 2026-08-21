@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Vector3TestSuite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Vector3TestSuite",
+  "parent":{
+    "name":"Tests",
+    "path":"folders/Core/Math/Tests.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

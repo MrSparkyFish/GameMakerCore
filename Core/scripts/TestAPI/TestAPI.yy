@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TestAPI",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TestAPI",
+  "parent":{
+    "name":"Test",
+    "path":"folders/Core/xUnit/Test.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TimeAPI",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TimeAPI",
+  "parent":{
+    "name":"Time",
+    "path":"folders/Core/Time.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

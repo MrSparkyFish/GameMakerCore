@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TagCountChanged",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TagCountChanged",
+  "parent":{
+    "name":"Classes",
+    "path":"folders/Core/Tags/Classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

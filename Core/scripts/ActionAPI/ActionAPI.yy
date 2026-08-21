@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ActionAPI",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ActionAPI",
+  "parent":{
+    "name":"Actions",
+    "path":"folders/Core/Actions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

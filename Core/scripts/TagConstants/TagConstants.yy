@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TagConstants",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TagConstants",
+  "parent":{
+    "name":"Tags",
+    "path":"folders/Core/Tags.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

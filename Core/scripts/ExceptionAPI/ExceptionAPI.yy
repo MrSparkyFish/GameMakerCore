@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ExceptionAPI",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ExceptionAPI",
+  "parent":{
+    "name":"Exceptions",
+    "path":"folders/Core/Exceptions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

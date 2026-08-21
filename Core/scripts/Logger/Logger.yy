@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Logger",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Logger",
+  "parent":{
+    "name":"Classes",
+    "path":"folders/Core/Logs/Classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

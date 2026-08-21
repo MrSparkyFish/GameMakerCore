@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ConfigConstants",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ConfigConstants",
+  "parent":{
+    "name":"Configs",
+    "path":"folders/Core/xUnit/Configs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

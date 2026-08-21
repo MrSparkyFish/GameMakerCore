@@ -1,0 +1,1 @@
+draw_text(4, 4, "Press 'F1' to start unit tests.");

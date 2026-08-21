@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"IClock",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"IClock",
+  "parent":{
+    "name":"Classes",
+    "path":"folders/Core/Time/Classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

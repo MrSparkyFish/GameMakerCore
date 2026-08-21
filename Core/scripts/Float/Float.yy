@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Float",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Float",
+  "parent":{
+    "name":"Floats",
+    "path":"folders/Core/Misc./Floats.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Vector4",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Vector4",
+  "parent":{
+    "name":"LinearAlgebra",
+    "path":"folders/Core/Math/LinearAlgebra.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

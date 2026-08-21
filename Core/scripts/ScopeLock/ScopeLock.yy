@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ScopeLock",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScopeLock",
+  "parent":{
+    "name":"ScopeLock",
+    "path":"folders/Core/ScopeLock.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

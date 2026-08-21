@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TagContainerAggregator",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TagContainerAggregator",
+  "parent":{
+    "name":"Classes",
+    "path":"folders/Core/Tags/Classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TagAPI",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TagAPI",
+  "parent":{
+    "name":"Tags",
+    "path":"folders/Core/Tags.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

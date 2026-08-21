@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"BitMaskTestSuite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BitMaskTestSuite",
+  "parent":{
+    "name":"Tests",
+    "path":"folders/Core/Math/Tests.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

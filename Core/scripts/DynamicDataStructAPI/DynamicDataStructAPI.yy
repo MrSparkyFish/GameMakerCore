@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"DynamicDataStructAPI",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DynamicDataStructAPI",
+  "parent":{
+    "name":"DynamicGarbageCollection",
+    "path":"folders/Core/DynamicGarbageCollection.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

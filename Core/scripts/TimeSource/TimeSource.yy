@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TimeSource",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TimeSource",
+  "parent":{
+    "name":"Classes",
+    "path":"folders/Core/Time/Classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

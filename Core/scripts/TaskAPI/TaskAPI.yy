@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TaskAPI",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TaskAPI",
+  "parent":{
+    "name":"Tasks",
+    "path":"folders/Core/Tasks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

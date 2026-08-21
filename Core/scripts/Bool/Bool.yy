@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Bool",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Bool",
+  "parent":{
+    "name":"Bools",
+    "path":"folders/Core/Misc./Bools.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

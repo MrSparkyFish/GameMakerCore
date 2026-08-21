@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"xUnitConstants",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"xUnitConstants",
+  "parent":{
+    "name":"xUnit",
+    "path":"folders/Core/xUnit.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

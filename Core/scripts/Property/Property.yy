@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Property",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Property",
+  "parent":{
+    "name":"Properties",
+    "path":"folders/Core/xUnit/Configs/Properties.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

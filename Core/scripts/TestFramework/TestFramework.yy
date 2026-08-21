@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TestFramework",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TestFramework",
+  "parent":{
+    "name":"Classes",
+    "path":"folders/Core/xUnit/Test/Classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

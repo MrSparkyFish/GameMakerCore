@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"DataStructures",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DataStructures",
+  "parent":{
+    "name":"DataStructures",
+    "path":"folders/Core/Misc./DataStructures.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

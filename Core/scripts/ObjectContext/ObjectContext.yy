@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ObjectContext",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ObjectContext",
+  "parent":{
+    "name":"ObjectContext",
+    "path":"folders/Core/ObjectContext.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

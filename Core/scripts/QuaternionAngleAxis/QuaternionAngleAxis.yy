@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"QuaternionAngleAxis",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"QuaternionAngleAxis",
+  "parent":{
+    "name":"LinearAlgebra",
+    "path":"folders/Core/Math/LinearAlgebra.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TimeConstants",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TimeConstants",
+  "parent":{
+    "name":"Time",
+    "path":"folders/Core/Time.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"QuaternionTestSuite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"QuaternionTestSuite",
+  "parent":{
+    "name":"Tests",
+    "path":"folders/Core/Math/Tests.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

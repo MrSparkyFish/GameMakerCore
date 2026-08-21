@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MessageSettings",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MessageSettings",
+  "parent":{
+    "name":"Classes",
+    "path":"folders/Core/Logs/Classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

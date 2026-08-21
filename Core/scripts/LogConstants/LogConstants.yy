@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"LogConstants",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"LogConstants",
+  "parent":{
+    "name":"Logs",
+    "path":"folders/Core/Logs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

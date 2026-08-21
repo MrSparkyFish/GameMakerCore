@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"IEventDispatcher",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"IEventDispatcher",
+  "parent":{
+    "name":"Events",
+    "path":"folders/Core/Events.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
