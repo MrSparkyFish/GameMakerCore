@@ -70,7 +70,6 @@
     {"id":{"name":"rmEmpty","path":"rooms/rmEmpty/rmEmpty.yy",},},
     {"id":{"name":"rmGameLaunch","path":"rooms/rmGameLaunch/rmGameLaunch.yy",},},
     {"id":{"name":"rmUnitTest","path":"rooms/rmUnitTest/rmUnitTest.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Action","path":"scripts/Action/Action.yy",},},
     {"id":{"name":"ActionAPI","path":"scripts/ActionAPI/ActionAPI.yy",},},
     {"id":{"name":"Arrays","path":"scripts/Arrays/Arrays.yy",},},
@@ -175,7 +174,6 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"DevRoom","path":"rooms/DevRoom/DevRoom.yy",},},
     {"roomId":{"name":"rmGameLaunch","path":"rooms/rmGameLaunch/rmGameLaunch.yy",},},
     {"roomId":{"name":"rmEmpty","path":"rooms/rmEmpty/rmEmpty.yy",},},
