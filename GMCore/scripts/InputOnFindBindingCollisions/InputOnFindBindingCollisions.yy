@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"InputOnFindBindingCollisions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InputOnFindBindingCollisions",
+  "parent":{
+    "name":"Delegates",
+    "path":"folders/Core/InputSystem/(System)/Delegates.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

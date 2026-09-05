@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"CapturedHistoryContainer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CapturedHistoryContainer",
+  "parent":{
+    "name":"Containers",
+    "path":"folders/Core/StateMachine/Containers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"InputDevice",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InputDevice",
+  "parent":{
+    "name":"Devices",
+    "path":"folders/Core/InputSystem/(System)/Devices.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

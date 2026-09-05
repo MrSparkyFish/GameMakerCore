@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"StateMachineTestSuite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"StateMachineTestSuite",
+  "parent":{
+    "name":"TestSuites",
+    "path":"folders/Core/xUnit/Test/TestSuites.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

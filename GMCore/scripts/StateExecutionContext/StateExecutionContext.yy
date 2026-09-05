@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"StateExecutionContext",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"StateExecutionContext",
+  "parent":{
+    "name":"StateMachine",
+    "path":"folders/Core/StateMachine.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

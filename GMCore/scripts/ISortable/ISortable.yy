@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ISortable",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ISortable",
+  "parent":{
+    "name":"StateMachine",
+    "path":"folders/Core/StateMachine.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

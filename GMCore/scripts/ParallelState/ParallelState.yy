@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ParallelState",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ParallelState",
+  "parent":{
+    "name":"TransitionTargets",
+    "path":"folders/Core/StateMachine/TransitionTargets.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

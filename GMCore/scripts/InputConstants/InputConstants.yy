@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"InputConstants",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InputConstants",
+  "parent":{
+    "name":"(System)",
+    "path":"folders/Core/InputSystem/(System).yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

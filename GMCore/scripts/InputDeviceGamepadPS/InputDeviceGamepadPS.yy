@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"InputDeviceGamepadPS",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InputDeviceGamepadPS",
+  "parent":{
+    "name":"Devices",
+    "path":"folders/Core/InputSystem/(System)/Devices.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

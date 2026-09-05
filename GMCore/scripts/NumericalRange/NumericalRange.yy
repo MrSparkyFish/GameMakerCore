@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"NumericalRange",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"NumericalRange",
+  "parent":{
+    "name":"Range",
+    "path":"folders/Core/Utility/Range.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"OnTransitionTaken",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"OnTransitionTaken",
+  "parent":{
+    "name":"TypeDefs",
+    "path":"folders/Core/StateMachine/TypeDefs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

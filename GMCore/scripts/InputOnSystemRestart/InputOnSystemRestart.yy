@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"InputOnSystemRestart",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InputOnSystemRestart",
+  "parent":{
+    "name":"Delegates",
+    "path":"folders/Core/InputSystem/(System)/Delegates.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"EnterableStateContainer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"EnterableStateContainer",
+  "parent":{
+    "name":"Containers",
+    "path":"folders/Core/StateMachine/Containers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

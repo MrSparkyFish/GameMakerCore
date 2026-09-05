@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"InputOnHotswap",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InputOnHotswap",
+  "parent":{
+    "name":"Delegates",
+    "path":"folders/Core/InputSystem/(System)/Delegates.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

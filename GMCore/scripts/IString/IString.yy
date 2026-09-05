@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"IString",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"IString",
+  "parent":{
+    "name":"Strings",
+    "path":"folders/Core/Utility/Strings.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"InputOnCollect",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InputOnCollect",
+  "parent":{
+    "name":"Delegates",
+    "path":"folders/Core/InputSystem/(System)/Delegates.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"DynamicGarbageCollector",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DynamicGarbageCollector",
+  "parent":{
+    "name":"Classes",
+    "path":"folders/Core/DynamicGarbageCollection/Classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"InputRebindingHandler",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InputRebindingHandler",
+  "parent":{
+    "name":"(System)",
+    "path":"folders/Core/InputSystem/(System).yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

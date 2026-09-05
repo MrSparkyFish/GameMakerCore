@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GamepadBindingNameLookupTable",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GamepadBindingNameLookupTable",
+  "parent":{
+    "name":"Tables",
+    "path":"folders/Core/InputSystem/(System)/Tables.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

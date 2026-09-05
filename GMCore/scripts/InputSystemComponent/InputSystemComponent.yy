@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"InputSystemComponent",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InputSystemComponent",
+  "parent":{
+    "name":"InputAPI",
+    "path":"folders/Core/InputSystem/InputAPI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

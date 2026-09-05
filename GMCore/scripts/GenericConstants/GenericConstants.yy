@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GenericConstants",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GenericConstants",
+  "parent":{
+    "name":"Constants",
+    "path":"folders/Core/Utility/Constants.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

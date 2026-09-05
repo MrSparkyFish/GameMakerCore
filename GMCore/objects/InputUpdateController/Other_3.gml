@@ -1,0 +1,2 @@
+//__InputRestart();
+inputSystem.OnGameEnd();

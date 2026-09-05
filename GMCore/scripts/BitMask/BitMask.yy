@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"BitMask",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BitMask",
+  "parent":{
+    "name":"BitMask",
+    "path":"folders/Core/Utility/BitMask.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SimpleTransition",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SimpleTransition",
+  "parent":{
+    "name":"Transitions",
+    "path":"folders/Core/StateMachine/Transitions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

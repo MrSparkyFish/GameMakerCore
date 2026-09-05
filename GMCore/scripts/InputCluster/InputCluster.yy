@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"InputCluster",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InputCluster",
+  "parent":{
+    "name":"(System)",
+    "path":"folders/Core/InputSystem/(System).yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

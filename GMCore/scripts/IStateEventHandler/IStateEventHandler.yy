@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"IStateEventHandler",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"IStateEventHandler",
+  "parent":{
+    "name":"StateMachine",
+    "path":"folders/Core/StateMachine.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

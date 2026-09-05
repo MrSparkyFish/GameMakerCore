@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ScalableFloat",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScalableFloat",
+  "parent":{
+    "name":"Floats",
+    "path":"folders/Core/Utility/Floats.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"InputKbmBindingTable",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InputKbmBindingTable",
+  "parent":{
+    "name":"Tables",
+    "path":"folders/Core/InputSystem/(System)/Tables.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

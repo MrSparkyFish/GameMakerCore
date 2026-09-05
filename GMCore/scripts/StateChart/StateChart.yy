@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"StateChart",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"StateChart",
+  "parent":{
+    "name":"StateMachine",
+    "path":"folders/Core/StateMachine.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

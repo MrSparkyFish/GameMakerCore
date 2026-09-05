@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"State",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"State",
+  "parent":{
+    "name":"TransitionTargets",
+    "path":"folders/Core/StateMachine/TransitionTargets.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

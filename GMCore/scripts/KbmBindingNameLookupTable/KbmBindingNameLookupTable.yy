@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"KbmBindingNameLookupTable",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"KbmBindingNameLookupTable",
+  "parent":{
+    "name":"Tables",
+    "path":"folders/Core/InputSystem/(System)/Tables.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
